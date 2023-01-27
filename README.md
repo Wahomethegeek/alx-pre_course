@@ -1,1 +1,1 @@
-Added another directory
+Learning shell and git
