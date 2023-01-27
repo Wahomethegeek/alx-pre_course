@@ -1,1 +1,1 @@
-Learning shell and git
+alx-pre_course
